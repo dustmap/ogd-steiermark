@@ -11,7 +11,7 @@ XLS Abfrage unter: http://app.luis.steiermark.at/luft2/suche.php
 
 
 Query parameter: 
-
+<pre>
 station1, station2, station3
   195: Deutschlandsberg AK
   138: Graz-Don Bosco
@@ -47,3 +47,6 @@ mittelwert:
   7:  MW8 (Gleit. Achtstundenmittelwert)
   8:  MW24 (Gleit. 24Stundenmittelwert)
   21: TMW (Tagesmittelwert)
+</pre>
+
+
